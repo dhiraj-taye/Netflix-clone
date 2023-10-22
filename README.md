@@ -1,6 +1,6 @@
 # Netflix 2.0 Web Application
 
-##Demo
+## Demo
 [Live demo](https://netflix-clone-taye.netlify.app/)
 
 ## Overview
