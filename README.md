@@ -1,5 +1,8 @@
 # Netflix 2.0 Web Application
 
+##Demo
+[Live demo](https://netflix-clone-taye.netlify.app/)
+
 ## Overview
 
 This project aims to create a modern web application, inspired by Netflix, using a variety of cutting-edge technologies. The application leverages React.js for the frontend, Stripe for payments, Redux for state management, Firestore for data storage, and various Google services for seamless user experiences.
